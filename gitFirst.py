@@ -1,2 +1,1 @@
-print('first git')
-print('hello')
+y = 1
